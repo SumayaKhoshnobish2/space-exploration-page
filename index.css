@@ -1,0 +1,30 @@
+body{
+    color: #82a5ca;
+    text-align: center;
+    font-family: 'Orbitron', sans-serif;
+    
+}
+#title{
+    text-shadow: 0px 0px 4px black;
+}
+.hero{
+    background-image: url("giphy\ galaxy.gif");
+    background-size: cover;
+    padding: 50px 0 370px 0;
+}
+button{
+    color: black;
+    padding: 6px 12px;
+    font-size: 15px;
+    background-color: white;
+    border: none;
+    font-family: 'Orbitron', sans-serif;
+    color: #82a5ca;
+    font-weight: bold;
+}
+.cta{
+    border-bottom: 4px solid white;
+}
+#main_logo{
+    width : 150px;
+}
